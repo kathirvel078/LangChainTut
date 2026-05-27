@@ -1,82 +1,186 @@
-# LangChain Practice Repository
+# LangChain Learning Repository
 
-This repository contains my practice projects, experiments, and learning notes using LangChain and AI agent concepts.
+This repository contains my learning journey and practice projects using LangChain, Python, and AI agent systems.
 
----
-
-# 🚀 Topics Covered
-
-- LangChain Basics
-- Prompt Engineering
-- Chains
-- Tools
+I am exploring how modern AI applications are built using:
+- LLMs
 - Agents
-- Routers
-- Stateful vs Stateless Routing
-- Memory Management
+- Tools
+- Memory
+- Retrieval Systems
 - Context Engineering
-- Structured Output
-- RAG (Retrieval-Augmented Generation)
-- Vector Databases
-- LangGraph Basics
-- AI Workflows
-- Checkpointing
-- Tool Calling
-- Multi-Agent Systems
+- Multi-Agent Architectures
 
 ---
 
-# 📚 What I Am Learning
-
-## 1. Prompt Engineering
-Learning how to design prompts for better LLM responses.
-
-## 2. Chains
-Understanding sequential workflows using LangChain chains.
-
-## 3. Agents
-Building AI agents that can:
-- think
-- choose tools
-- execute tasks
-
-## 4. Routers
-Learning how routers decide:
-- which agent to use
-- which tool to call
-- how workflows are managed
-
-## 5. Memory
-Practicing:
-- short-term memory
-- long-term memory
-- vector memory
-- conversation history
-
-## 6. RAG
-Building Retrieval-Augmented Generation systems using:
-- embeddings
-- vector databases
-- retrievers
-
-## 7. Context Engineering
-Learning how to provide:
-- correct prompts
-- relevant memory
-- retrieved documents
-- proper tools
-
-to improve AI reliability.
-
----
-
-# 🛠️ Technologies Used
+# 🚀 Technologies Used
 
 - Python
 - LangChain
 - LangGraph
-- OpenAI
+- Ollama Models
 - ChromaDB
-- FastAPI
-- React.js
 - Vector Databases
+
+---
+
+# 📚 Topics I Learned
+
+## 1. Models
+
+Understanding how Large Language Models (LLMs) work and how to integrate them into applications.
+
+### Concepts:
+- Chat Models
+- Model Invocation
+- Prompt Handling
+- Token Usage
+- Structured Output
+
+---
+
+## 2. Agents
+
+Learning how AI agents:
+- think
+- plan
+- use tools
+- make decisions
+- execute workflows
+
+### Topics Covered:
+- Agent Loop
+- Tool Calling
+- Agent Execution Flow
+- Multi-Step Reasoning
+
+---
+
+## 3. Tools
+
+Building tools that agents can use to perform actions.
+
+### Examples:
+- Calculator Tool
+- Search Tool
+- Database Tool
+- Custom Python Functions
+
+---
+
+## 4. Skills
+
+Understanding reusable AI capabilities and workflows.
+
+### Examples:
+- Summarization Skill
+- Coding Skill
+- Retrieval Skill
+- Classification Skill
+
+---
+
+## 5. Context Engineering
+
+Learning how to provide the right context to LLMs for reliable responses.
+
+### Topics:
+- System Prompts
+- Chat History
+- Tool Context
+- Retrieved Documents
+- Dynamic Prompting
+- Context Window Management
+
+---
+
+## 6. System Prompts
+
+Practicing how system prompts control:
+- AI behavior
+- tone
+- rules
+- response style
+
+---
+
+## 7. Memory
+
+Understanding memory systems in AI applications.
+
+### Types:
+- Short-Term Memory
+- Long-Term Memory
+- Conversation Memory
+- Vector Memory
+- Persistent Memory
+
+### Concepts:
+- Checkpointing
+- Stateful Systems
+- Memory Retrieval
+
+---
+
+## 8. Routers
+
+Learning how routers decide:
+- which agent to use
+- which tool to call
+- how requests are distributed
+
+### Types:
+- Stateless Router
+- Stateful Router
+
+---
+
+## 9. Sub-Agents
+
+Understanding how multiple specialized agents work together.
+
+### Example:
+- Coding Agent
+- Math Agent
+- Research Agent
+- Planner Agent
+
+---
+
+## 10. Retrieval Systems
+
+Learning Retrieval-Augmented Generation (RAG).
+
+### Topics:
+- Document Loading
+- Chunking
+- Retrieval Pipelines
+- Similarity Search
+- Context Injection
+
+---
+
+## 11. Embeddings
+
+Understanding how text is converted into vectors for semantic search.
+
+### Topics:
+- Vector Embeddings
+- Similarity Matching
+- Semantic Search
+- Embedding Models
+
+---
+
+# 🧠 Concepts Practiced
+
+- AI Agent Architecture
+- Multi-Agent Systems
+- Tool Calling
+- Memory Management
+- Context Engineering
+- Retrieval-Augmented Generation (RAG)
+- Structured Output
+- Workflow Orchestration
+- Persistent State
+- Vector Search
